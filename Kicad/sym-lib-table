@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GY-521")(type "KiCad")(uri "${KIPRJMOD}/components/xtech/symbols/GY-521.kicad_sym")(options "")(descr ""))
+  (lib (name "xtech")(type "KiCad")(uri "${KIPRJMOD}/components/xtech/symbols/xtech.kicad_sym")(options "")(descr ""))
+)
